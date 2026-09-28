@@ -1,132 +1,136 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,50:2A1E14,100:12100E&height=190&section=header&text=G%20A%20M%20E%20S%20A%20P%20E%20C%20A&fontSize=38&fontColor=D4AF37&fontAlignY=45&desc=CODEX%20CYBERNETICUS%20%C2%B7%20HOMO%20UNIVERSALIS&descFontSize=14&descColor=D1C7B7&descAlignY=70" width="100%" alt="Codex Cyberneticus Frontispiece" />
-</div>
+# 🐾 Site Estética Canina Mary Jane
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/HACKERONE-RESEARCHER-12100E?style=for-the-badge&logo=hackerone&logoColor=D4AF37&labelColor=1A1614" alt="HackerOne" />
-    <img src="https://img.shields.io/badge/BUGCROWD-HUNTER-12100E?style=for-the-badge&logo=bugcrowd&logoColor=D4AF37&labelColor=1A1614" alt="Bugcrowd" />
-    <a href="https://github.com/marketplace/actions/gha-oidc-security-auditor"><img src="https://img.shields.io/badge/GITHUB_MARKETPLACE-AUTHOR-12100E?style=for-the-badge&logo=githubactions&logoColor=D4AF37&labelColor=1A1614" alt="GitHub Marketplace" /></a>
-    <img src="https://img.shields.io/badge/DISCIPLINA-SAST_%26_REVERSING-12100E?style=for-the-badge&logoColor=D4AF37&labelColor=1A1614" alt="SAST & Reversing" />
-  </p>
-
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Homo+Universalis+%C2%B7+Investigator+Securitatis;De+Re+Militari+%C2%B7+Offensive+Research+%26+Bug+Bounty;Anatomia+Codicis+%C2%B7+Static+Analysis+(SAST)+%26+Reversing;Cloud+IAM%2C+OIDC+Entitlements+%26+CI%2FCD+Security;Author+of+gha-oidc-auditor+(Marketplace+Action)" alt="Renaissance Typing Banner" />
-  </p>
-</div>
-
-<blockquote align="center">
-  <p>⚜ <i>"Saper vedere — Saber enxergar através do véu do código aquilo que os olhos comuns ignoram."</i> ⚜</p>
-  <sub>— Leonardo da Vinci · Princípio da Dissecação Estrutural e Auditoria de Segurança</sub>
-</blockquote>
+Landing page mobile-first para petshop com identidade visual roxo e rosa.
 
 ---
 
-### § I. DE ARTE CYBERNETICA · O MANIFESTO
+## 🎁 Este é um Presente!
 
-<p>A engenharia de segurança contemporânea exige a mentalidade do <b>Polímata Renascentista</b>: o domínio simultâneo da geometria matemática dos compiladores, da anatomia de baixo nível dos binários e da estratégia tática de cerco e quebra de defesas.</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚜ § II. DE RE MILITARI</h3>
-      <p><b>Arte Ofensiva & Bug Bounty (HackerOne & Bugcrowd)</b></p>
-      <ul>
-        <li>✦ <b>Protocol & Auth Bypasses:</b> Quebra de controle de acesso em implementações complexas de JWT, OAuth2, SAML, Supabase e federações OIDC.</li>
-        <li>✦ <b>Exploração Lógica em APIs:</b> Identificação de IDOR/BOLA e falhas de autorização em larga escala.</li>
-        <li>✦ <b>Evasão & Injeção Profunda:</b> Bypass avançado de WAF, SSRF, Server-Side Template Injection (SSTI) e Race Conditions.</li>
-        <li>✦ <b>CI/CD Supply Chain Attacks:</b> Envenenamento de runners, exfiltração de tokens efêmeros e escalada de privilégios em nuvem.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚜ § III. ANATOMIA CODICIS</h3>
-      <p><b>Análise Estática (SAST) & Engenharia Reversa</b></p>
-      <ul>
-        <li>✦ <b>Dissecação de Binários:</b> Análise estática e dinâmica de executáveis compilados (ELF, PE, Mach-O, ARM64, x86_64).</li>
-        <li>✦ <b>Engenharia Reversa Mobile:</b> Descompilação de APK/IPA, análise de bibliotecas nativas e ganchos em runtime.</li>
-        <li>✦ <b>Engenharia de AST & Taint:</b> Construção de analisadores semânticos e rastreamento determinístico de fluxo de dados.</li>
-        <li>✦ <b>Auditoria CIEM em Nuvem:</b> Mapeamento de privilégio mínimo em AWS IAM, GCP WIF, Azure Entra ID e Kubernetes.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Este site foi criado como presente. Algumas informações precisam ser personalizadas antes do uso.
 
 ---
 
-### § IV. ARS POLYGLOTTA · O QUADRIVIUM TÉCNICO
+## ✅ O Que Está Pronto
 
-<div align="center">
-  <p><b>Linguagens de Sistemas, Compiladores & Dissecação:</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/C-12100E?style=flat-square&logo=c&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/C++-12100E?style=flat-square&logo=c%2B%2B&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Rust-12100E?style=flat-square&logo=rust&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Go-12100E?style=flat-square&logo=go&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Assembly_x86_64-12100E?style=flat-square&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Python-12100E?style=flat-square&logo=python&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Bash-12100E?style=flat-square&logo=gnubash&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/TypeScript-12100E?style=flat-square&logo=typescript&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Java-12100E?style=flat-square&logo=openjdk&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Kotlin-12100E?style=flat-square&logo=kotlin&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Solidity-12100E?style=flat-square&logo=solidity&logoColor=D4AF37&labelColor=1A1614" />
-  </p>
-
-  <p><b>Nuvem, Orquestração, Contêineres & Infraestrutura:</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-12100E?style=flat-square&logo=amazonwebservices&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/GCP-12100E?style=flat-square&logo=googlecloud&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Azure-12100E?style=flat-square&logo=microsoftazure&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Kubernetes-12100E?style=flat-square&logo=kubernetes&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Docker-12100E?style=flat-square&logo=docker&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Terraform-12100E?style=flat-square&logo=terraform&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Linux-12100E?style=flat-square&logo=linux&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-12100E?style=flat-square&logo=githubactions&logoColor=D4AF37&labelColor=1A1614" />
-    <img src="https://img.shields.io/badge/Git-12100E?style=flat-square&logo=git&logoColor=D4AF37&labelColor=1A1614" />
-  </p>
-</div>
+- ✨ Design responsivo mobile-first
+- 🎨 Identidade visual roxo (#7e22ce) e rosa (#fbcfe8)
+- 🖼️ Mascote integrada (cachorrinha com laços)
+- 📸 Galeria de clientes
+- 🔄 Seção de antes/depois
+- ⭐ Avaliações estilo Google Maps
+- 💬 Botão flutuante do WhatsApp
+- 📱 Menu hambúrguer para mobile
 
 ---
 
-### § V. OPUS MAGNUM · GHA-OIDC-AUDITOR
+## 📝 O Que Precisa Personalizar
 
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <h3>⚜ <a href="https://github.com/gamesapeca/gha-oidc-auditor">gha-oidc-auditor</a> — <i>Application Security Posture Management & CIEM</i></h3>
-      <p><b>Motor de Análise Estática, Síntese de Políticas Cloud de Menor Privilégio e Gerador de Exploit Chains para GitHub Actions OIDC.</b></p>
-      <p>
-        <a href="https://github.com/gamesapeca/gha-oidc-auditor/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/RELEASE-v0.1.0-12100E?style=flat-square&labelColor=1A1614&color=D4AF37" alt="Release v0.1.0" /></a>
-        <a href="https://github.com/marketplace/actions/gha-oidc-security-auditor"><img src="https://img.shields.io/badge/MARKETPLACE-ACTION-12100E?style=flat-square&logo=githubactions&logoColor=D4AF37&labelColor=1A1614&color=D4AF37" alt="Marketplace Action" /></a>
-        <img src="https://img.shields.io/badge/CATALOGO-12_REGRAS-12100E?style=flat-square&labelColor=1A1614&color=D4AF37" alt="12 Regras" />
-        <img src="https://img.shields.io/badge/REMEDIATION-TERRAFORM_HCL-12100E?style=flat-square&logo=terraform&logoColor=D4AF37&labelColor=1A1614&color=D4AF37" alt="Terraform HCL" />
-      </p>
-      <ul>
-        <li>✦ <b>12 Regras Especializadas:</b> Cobertura integral de ataques de supply-chain (classe CVE-2025-30066), <code>pull_request_target</code> RCE e claims imutáveis de Julho de 2026.</li>
-        <li>✦ <b>8 Cadeias de Exploração (Exploit Chains):</b> Síntese automatizada de PoCs determinísticos para Bug Bounty com comandos de exfiltração em AWS STS, GCP WIF e Azure.</li>
-        <li>✦ <b>Remediation-as-Code:</b> Geração direta de módulos Terraform/OpenTofu HCL em privilégio mínimo.</li>
-        <li>✦ <b>Verificação Bidirecional CIEM:</b> Auditoria offline cruzando políticas reais na nuvem com a intenção estática do código.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Antes de usar, atualize em `src/App.jsx`:
+
+### 1. WhatsApp (Linha ~21)
+```javascript
+const whatsappNumber = "5511999999999"; // ← Trocar pelo número real
+```
+
+### 2. Telefone no Footer (Linha ~397)
+```javascript
+<span>(11) 99999-9999</span> // ← Trocar
+```
+
+### 3. Endereço Completo (Linha ~406)
+```javascript
+Rua das Flores, 123
+Jardim Exemplo - São Paulo, SP
+CEP: 01234-567
+// ← Trocar pelo endereço real
+```
+
+### 4. Redes Sociais (Linhas ~553-571)
+```javascript
+href="https://instagram.com" // ← Instagram real
+href="https://facebook.com"  // ← Facebook real
+```
 
 ---
 
-### § VI. CHRONICA TEMPORIS · OS ANAIS DE CONTRIBUIÇÃO
+## 🚀 Como Rodar Localmente
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamesapeca&bg_color=12100E&color=D1C7B7&line=C5A059&point=D4AF37&title_color=D4AF37&hide_border=true&area=true" width="100%" alt="Chronica Temporis · Activity Graph" />
-</p>
+```bash
+# Instalar dependências
+npm install
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamesapeca/gamesapeca/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamesapeca/gamesapeca/output/github-contribution-grid-snake.svg" />
-    <img alt="Chronica Laboris · Golden Snake" src="https://raw.githubusercontent.com/gamesapeca/gamesapeca/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
+# Rodar em desenvolvimento
+npm run dev
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,50:2A1E14,100:12100E&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p>⚜ <i>"Simplicitas est suprema perfectio"</i> ⚜</p>
-</div>
+# Acessar em: http://localhost:5173
+```
+
+---
+
+## 📅 Agendamento Online (Futuro)
+
+O código está preparado para adicionar agendamento online quando tiver acesso ao email.
+
+**Opções disponíveis:**
+1. **Calendly** (mais popular)
+2. **Google Calendar** (100% grátis)
+3. **Setmore** (melhor plano grátis)
+
+**Como implementar:**
+1. Leia `booking_setup_guide.md`
+2. Escolha uma plataforma
+3. Configure (15-30 min)
+4. Atualize o código conforme instruções em `App.jsx`
+
+---
+
+## 📁 Estrutura
+
+```
+mary-jane-petshop/
+├── src/
+│   ├── App.jsx          # Componente principal (site completo)
+│   ├── main.jsx         # Entry point
+│   └── index.css        # Estilos globais
+├── public/
+│   ├── mascote.png      # Logo/mascote
+│   ├── pet1.jpg         # Galeria
+│   ├── pet2.png         # Galeria
+│   ├── antes.png        # Antes/Depois
+│   └── depois.png       # Antes/Depois
+└── index.html           # HTML base
+```
+
+---
+
+## 🎨 Identidade Visual
+
+**Cores:**
+- Roxo primário: `#7e22ce`
+- Rosa secundário: `#fbcfe8`
+
+**Fontes:**
+- Títulos: Dancing Script (cursiva)
+- Corpo: Quicksand (arredondada)
+
+---
+
+## 📦 Deploy
+
+Para colocar online, pode usar:
+- **Vercel** (grátis, recomendado)
+- **Netlify** (grátis)
+- **GitHub Pages**
+
+```bash
+npm run build
+# Upload da pasta dist/
+```
+
+---
+
+## 💝 Feito com Amor
+
+Criado com muito carinho para a Estética Canina Mary Jane! 🐕💜
+
+**Dúvidas?** Entre em contato com quem desenvolveu este site.
